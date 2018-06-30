@@ -1,0 +1,2 @@
+teleopbot
+-DCATKIN_DEVEL_PREFIX=/home/vinayakk/teleopbot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vinayakk/teleopbot_ws/install -G Unix Makefiles
